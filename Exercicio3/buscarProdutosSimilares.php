@@ -73,7 +73,7 @@ Class buscarProdutosSimilares
         }
 
         #MOSTRA MENSAGEM DO PRODUTO BUSCADO
-        print('Os três produtos mais similares ao produto '.$produtos[$id]['id'].'('.$produtos['8310']['name'].') são:');
+        print('Os três produtos mais similares ao produto '.$produtos[$id]['id'].'('.$produtos[$id]['name'].') são:');
     
        
         #EXIBE OS 3 PRODUTOS MAIS SIMILARES
