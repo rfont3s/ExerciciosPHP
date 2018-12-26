@@ -12,7 +12,7 @@ $ php produtosSimilares.php produtos.txt
 #Exercício 3 - Buscador de produtos similares !
 
 Executar o Seguinte Comando:
-$ php produtosSimilares.php produtos.txt <id do produto>
+$ php produtosSimilares.php produtos.txt --id do produto--
 
 Obs: #Exercício 3 depende da execução do #Exercício 2.
 
